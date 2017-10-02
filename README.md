@@ -2,7 +2,7 @@
 
 In this exercise you should try to get a feeling of how to build and create a node application for production mode using docker(-composer).
 
-#First navigate to your exercise repository
+# First navigate to your exercise repository
 git remote add docker-nodejs-prod https://github.com/1dv032/exercise-docker-node-prod/
 git subtree add --prefix=docker-nodejs-prod --squash docker-nodejs-prod master
 cd docker-nodejs-prod
